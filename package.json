@@ -1,0 +1,15 @@
+{
+  "name": "php-template",
+  "version": "1.0.0",
+  "description": "This site is created using PHP and Bootstrap. It uses templating to be able to use only one file for the header and footer but the main content stays the same.",
+  "main": "index.js",
+  "dependencies": {
+    "composer": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
